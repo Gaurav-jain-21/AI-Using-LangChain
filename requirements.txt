@@ -1,11 +1,13 @@
 langchain
 langchain-core
+langchain-community
 
 langchain-huggingface
 transformers
 huggingface-hub
 
 python-dotenv
+pypdf
 
 numpy
 scikit-learn
